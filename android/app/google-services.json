@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "550425255459",
+    "project_id": "attendance-system-81ac9",
+    "storage_bucket": "attendance-system-81ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550425255459:android:e1473a9c3fe4ececf99b96",
+        "android_client_info": {
+          "package_name": "com.saurabhinfosys.smart_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0oI31JXHLA8lUI-J8f2pjOwLPF6OaT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550425255459:android:bc6b7df778593a19f99b96",
+        "android_client_info": {
+          "package_name": "com.saurabhinfosys.student_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550425255459-mr8d6vi6o7ofvh07rq5jsqjbl1rru2v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saurabhinfosys.student_app",
+            "certificate_hash": "b9333b313ed34b3c54842a1441ef6f8db1ff4e78"
+          }
+        },
+        {
+          "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0oI31JXHLA8lUI-J8f2pjOwLPF6OaT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
